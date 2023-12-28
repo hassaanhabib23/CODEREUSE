@@ -12,6 +12,6 @@ in parameter and it is accessed by class and it has void return type.</pre><br>
  variance ,standardDeviation and sumOfSquare of array and store in double array having in index[0] 
  it saves median ,index[1] it saves variance ,index[2] it saves standardDeviation and in index[3]
  it saves sumofsquare and it return an array of double.</pre><br>
-<h4></h4>MEHTOD 3: matrixMultiplication()</h4>
+<h4>MEHTOD 3: matrixMultiplication()</h4>
 <pre>This method is also static and it take two 2D array and three INTEGER inputs like one for rows ,one 
 for column for matrix1 and one for matrix2 and rows are same.It returns 2D array which contain the result of matrix multiplication.</pre>
