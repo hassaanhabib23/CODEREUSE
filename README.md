@@ -6,12 +6,15 @@
 <h4>METHOD 1: sortDescending()</h4><br>
 <pre>This method is static and it take array of double in parameter and sort array in
 descending order.When this method is called it is necessary to send array of double 
-in parameter and it is accessed by class and it has void return type, <h5>Call this method by CodeReuse.sortDescending()</h5></pre><br>
+in parameter and it is accessed by class and it has void return type,
+ Call this method by <h4>CodeReuse.sortDescending()</h4></pre><br>
 <h4>METHOD 2: calculateStatistics()</h4><br>
  <pre>This method is static and it take array of double in parameter and calculate median ,mean ,
  variance ,standardDeviation and sumOfSquare of array and store in double array having in index[0] 
  it saves median ,index[1] it saves variance ,index[2] it saves standardDeviation and in index[3]
- it saves sumofsquare and it return an array of double,<h5>Call this method by CodeReuse.calculateStatistics()</h5></pre><br>
+ it saves sumofsquare and it return an array of double,
+  Call this method by <h4>CodeReuse.calculateStatistics()</h4></pre><br>
 <h4>MEHTOD 3: matrixMultiplication()</h4>
 <pre>This method is also static and it take two 2D array and three INTEGER inputs like one for rows ,one 
-for column for matrix1 and one for matrix2 and rows are same.It returns 2D array which contain the result of matrix multiplication,<h5>Call this method by CodeReuse.matrixMultiplication()</h5>.</pre>
+for column for matrix1 and one for matrix2 and rows are same.It returns 2D array which contain the result of matrix multiplication,
+ Call this method by <h4>CodeReuse.matrixMultiplication()</h4>.</pre>
